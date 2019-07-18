@@ -52,6 +52,7 @@ $(document).ready(function() {
       $("#lScore").text("Losses: " + lossCount);
       resetGame();  
     }
+    
   
     // creates on click function for crystalOne
     $("#crystalOne").click(function() {
