@@ -50,7 +50,7 @@ $(document).ready(function() {
       alert("You lose! Try again!");
       lossCount = lossCount + 1;
       $("#lScore").text("Losses: " + lossCount);
-      resetGame();
+      resetGame();  
     }
   
     // creates on click function for crystalOne
