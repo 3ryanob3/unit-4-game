@@ -74,7 +74,7 @@ $(document).ready(function() {
           winGame();
         } else if (userScore > gameScore) {
           loseGame();
-        }
+        } 
     });
   
     // creates on click function for crystalThree
