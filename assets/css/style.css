@@ -21,20 +21,20 @@ body {
  
 
   
-  #gScore {
+  .gScore {
     background-color: #009900;
     color: white;
     text-align: center;
     padding: 5px;
   }
-  #wScore {
+  .wScore {
     background-color: #00ffff;
     color: black;
     text-align: center;
     padding: 5px;
     margin-top: 5px;
   }
-  #lScore {
+  .lScore {
     background-color: #00ffff;
     color: black;
     text-align: center;
@@ -43,7 +43,7 @@ body {
   }
   
   
-  #uScore {
+  .uScore {
     background-color: #29a3a3;
     color: white;
     margin: 20px;
