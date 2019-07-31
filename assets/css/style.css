@@ -51,3 +51,25 @@ body {
     text-align: center;
   }
   
+  #crystalOne {
+    height: 300px;
+    weight: 300px;
+}
+#crystalTwo {
+  height: 300px;
+  weight: 300px;
+}
+#crystalThree {
+  height: 300px;
+  weight: 300px;
+}
+#crystalFour {
+  height: 300px;
+  weight: 300px;
+}
+.btn {
+  display: flex;
+  align-items: center;
+  float: right;
+  padding: 75px;
+}
